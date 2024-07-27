@@ -32,6 +32,9 @@
     <label for="Voter"><b>Voter Number</b></label>
     <input type="text" placeholder="Enter Voter Number" name="Voter" id="Voter" required>
     <br>
+    <label for="Brother Name"><b>Brother Name</b></label>
+    <input type="text" placeholder="Brother Name" name="Brother Name" id="Brother Name" required>
+    <br>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
