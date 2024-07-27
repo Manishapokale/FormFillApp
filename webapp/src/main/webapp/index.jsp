@@ -29,6 +29,10 @@
     <input type="text" placeholder="Enter PAN Number" name="PAN" id="PAN" required>
     <br>
 
+    <label for="Voter"><b>Voter Number</b></label>
+    <input type="text" placeholder="Enter Voter Number" name="Voter" id="Voter" required>
+    <br>
+
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
